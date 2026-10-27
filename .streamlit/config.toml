@@ -1,0 +1,8 @@
+# T12 demo theme (light, matches the chosen UI design). Copied into the demo repo by src.demo_data.
+[theme]
+base = "light"
+primaryColor = "#2563eb"
+backgroundColor = "#f7f8fa"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#111827"
+font = "sans serif"
